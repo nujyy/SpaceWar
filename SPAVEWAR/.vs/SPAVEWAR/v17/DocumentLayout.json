@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\gameoyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5CDCA4-2EE7-45EE-8D04-8F2C7F7F5E71}|SPAVEWAR\\SPAVEWAR.csproj|\\\\mac\\home\\documents\\spavewar\\spavewar\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Form1.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Form1.cs",
+              "RelativeToolTip": "SPAVEWAR\\Form1.cs",
+              "ViewState": "AgIAAMkAAAAAAM3MzMzsvwoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:36:33.295Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Form1.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Form1.cs [Design]",
+              "RelativeToolTip": "SPAVEWAR\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:44:31.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOyun.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\GameOyun.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\GameOyun.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\GameOyun.cs",
+              "RelativeToolTip": "SPAVEWAR\\GameOyun.cs",
+              "ViewState": "AgIAAB8BAAAApJmZmRkqwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:21:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Bullet.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\Bullet.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Bullet.cs",
+              "RelativeToolTip": "SPAVEWAR\\Bullet.cs",
+              "ViewState": "AgIAACcAAACANDMzM7MXwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:17:29.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollisionDetector.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\CollisionDetector.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\CollisionDetector.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\CollisionDetector.cs",
+              "RelativeToolTip": "SPAVEWAR\\CollisionDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:11:24.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\Form1.Designer.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Form1.Designer.cs",
+              "RelativeToolTip": "SPAVEWAR\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAADg/////38gwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:35:44.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "SPAVEWAR\\Properties\\Resources.Designer.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\SPAVEWAR\\SPAVEWAR\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "SPAVEWAR\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:35:53.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

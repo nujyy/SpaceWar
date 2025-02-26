@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SPAVEWAR/Properties/Resources.Designer.cs">
+    <Files>
+      <File FileName="SPAVEWAR/Program.cs" Line="1" Column="1" />
+      <File FileName="SPAVEWAR/GameOyun.cs" Line="1" Column="1" />
+      <File FileName="SPAVEWAR/SpaceShip.cs" Line="1" Column="1" />
+      <File FileName="SPAVEWAR/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="SPAVEWAR/Form1.cs" Line="1" Column="1" />
+      <File FileName="SPAVEWAR/Form1.resx" Line="1" Column="1" />
+      <File FileName="SPAVEWAR/Properties/Resources.Designer.cs" Line="30" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SPAVEWAR" expanded="True">
+            <Node name="SPAVEWAR" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="Resources.resx" expanded="True">
+                  <Node name="Resources.Designer.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
